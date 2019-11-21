@@ -1,0 +1,19 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 2f1a71c4a2d14c67a6cafe265fdb8266 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot top_test_behav xil_defaultlib.top_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 6 differs from formal bit length 4 for port n [F:/project_2/project_2/project_2.srcs/sim_1/new/top_test.v:37]
+WARNING: [VRFC 10-278] actual bit length 12 differs from formal bit length 32 for port result [F:/project_2/project_2/project_2.srcs/sources_1/new/top.v:29]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.RAM32bit_64
+Compiling module xil_defaultlib.registerGroup
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.calWithRegs_FIB
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.top_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_test_behav

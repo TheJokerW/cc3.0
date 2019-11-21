@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sources_1/new/RAM32bit_64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM32bit_64
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sources_1/imports/new/calComplement.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calWithRegs_FIB
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sources_1/new/noname.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+WARNING: [VRFC 10-756] identifier fr is used before its declaration [F:/project_2/project_2/project_2.srcs/sources_1/new/noname.v:30]
+WARNING: [VRFC 10-756] identifier zr is used before its declaration [F:/project_2/project_2/project_2.srcs/sources_1/new/noname.v:31]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sources_1/imports/new/regGroup.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registerGroup
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/project_2/project_2/project_2.srcs/sim_1/new/top_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_test

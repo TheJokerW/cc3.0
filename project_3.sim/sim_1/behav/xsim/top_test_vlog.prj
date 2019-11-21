@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/RAM32bit_64.v" \
+"../../../../project_2.srcs/sources_1/imports/new/calComplement.v" \
+"../../../../project_2.srcs/sources_1/new/noname.v" \
+"../../../../project_2.srcs/sources_1/imports/new/regGroup.v" \
+"../../../../project_2.srcs/sources_1/new/top.v" \
+"../../../../project_2.srcs/sim_1/new/top_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
